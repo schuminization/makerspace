@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO"
+                 "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
                 }],
          "type":"tilelayer",
          "visible":true,
